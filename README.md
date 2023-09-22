@@ -2,7 +2,7 @@
 
 ## Description
 
-TimeLogix is a web-based application designed to streamline employee attendance management, time tracking, and HR-related tasks. This project offers a user-friendly interface for employees to log their work hours accurately, allowing for precise record-keeping of attendance, departures, and absence tracking. Administrators can manage employee data securely, making HR processes more efficient.
+TimeLogix is a web-based object-oriented application designed to streamline employee attendance management, time tracking, and HR-related tasks. This project offers a user-friendly interface for employees to log their work hours accurately, allowing for precise record-keeping of attendance, departures, and absence tracking. Administrators can manage employee data securely, making HR processes more efficient.
 
 ## Key Features
 
